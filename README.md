@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**xs2014/xs2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shao Shen! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a Data Scientist with extensive experiance in marketing and sales.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shao-shen-6a9a153)
+
+
+
+## 🛠 Skills
+    A. Data Science
+        1. Python
+        2. Pyspark
+        3. SQL
+        4. Data Visualization: Tableau | Power BI
+        5. Machine Learning
+
+    B. Customer Analytics
+        1. Audience Profiling
+        2. Customer Lifetime Value
+        3. Customer Retention
+
+    C. A/B or Multi Testing
+
+    D. Statistics
+
+
